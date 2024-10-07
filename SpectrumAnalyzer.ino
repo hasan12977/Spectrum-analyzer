@@ -15,7 +15,7 @@ make sure you install the correct arduinoFFT library.
 SSD1306 display(0x3c, 8, 9); // (address, SDA, SCL)
 
 /////////////////////////////////////////////////////////////////////////
-#define SAMPLES 256              // Must be a power of 2
+#define SAMPLES 512              // Must be a power of 2
 #define SAMPLING_FREQUENCY 40000 // Hz, must be 40000 or less due to ADC conversion time. Fmax=sampleF/2.
 #define amplitude 200            // Depending on your audio source level, you may need to increase this value
 
