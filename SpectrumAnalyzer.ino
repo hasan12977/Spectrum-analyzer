@@ -2,6 +2,9 @@
 https://github.com/G6EJD/ESP32-8266-Audio-Spectrum-Display/blob/master/ESP32_Spectrum_Display_02.ino
 
 you need to have/download 3 libraries: arduinoFFT, Adafruit_GFX, Adafruid_SSD1306.
+watch this vide (https://www.youtube.com/watch?v=hewy_qnSWNw) on how to install libraries in general. 
+in the search bar, search for the above libraries and install them.
+make sure you install the correct arduinoFFT library.
 */
 
 
