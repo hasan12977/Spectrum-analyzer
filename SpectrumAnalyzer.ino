@@ -1,4 +1,4 @@
-/* this code is an edited version of this code: 
+/* this code is a heavily edited version of this code: 
 https://github.com/G6EJD/ESP32-8266-Audio-Spectrum-Display/blob/master/ESP32_Spectrum_Display_02.ino
 
 you need to have/download 3 libraries: arduinoFFT, Adafruit_GFX, Adafruid_SSD1306.
