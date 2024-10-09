@@ -10,9 +10,9 @@ https://shorturl.at/sInEY - esp32c3 super mini
 
 
 -
-
+https://youtube.com/shorts/M6RI966OLcw
 -
-
+https://youtu.be/9-7Ewj4thew
 -
 
 
