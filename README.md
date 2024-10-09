@@ -9,6 +9,8 @@ https://shorturl.at/OVUjJ - 0.91 oled display
 https://shorturl.at/sInEY - esp32c3 super mini  
 
 
+
+videos showing the project in action:
 -
 https://youtube.com/shorts/M6RI966OLcw
 -
