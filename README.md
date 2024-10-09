@@ -19,5 +19,5 @@ https://shorturl.at/sInEY - esp32c3 super mini
 <img src="https://github.com/user-attachments/assets/60a64f61-c97a-4e37-a35f-7df1a7e6db5f" alt="image" width="300" height="300" />
 <img src="https://github.com/user-attachments/assets/9435ffab-225a-45ca-853c-315885ee7832" alt="image" width="300" height="300" />
 
-<img src="https://github.com/user-attachments/assets/ae4b92be-d067-44db-b6e4-c3c06660afef" alt="image" width="600" height="800" />
+<img src="https://github.com/user-attachments/assets/ae4b92be-d067-44db-b6e4-c3c06660afef" alt="image" width="620" height="800" />
 
