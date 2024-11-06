@@ -1,7 +1,7 @@
 # Spectrum-analyzer
 
-In this project, i will walk you through how to implement a spectrum analyzer using esp32 with its dual core.
-I will do this project using arduino framework using arduino IDE. in order to use esp32, we will need to install esp32 arduino core in arduino IDE.
+In this project, i will walk you through how to implement a spectrum analyzer using esp32 with its dual core.  
+I will do this project using arduino framework using arduino IDE. in order to use esp32, we will need to install esp32 arduino core in arduino IDE.  
 Please watch this 4-minute video for getting things ready for esp32 to program: https://www.youtube.com/watch?v=CD8VJl27n94
 
 
@@ -16,10 +16,10 @@ https://shorturl.at/sInEY - esp32c3 super mini
 
 
 
-If you have all the parts above then this is the step we do wiring/connection. we will be using i2c communication protocol.
-i2c uses SCL and SDA pins which are pin22 and pin21 for esp32, respectively. if you are using esp32c3 supermini, the pins should be 8 and 9. 
-esp32 has many adc pins. i chose pin33 for esp32, and pinx for esp32c3 supermini. you can choose any other pin that has adc functionality.
-once the wiring is done, please copy and paste the code provided. choose the board and port in arduino IDE. 
+If you have all the parts above then this is the step we do wiring/connection. we will be using i2c communication protocol.  
+i2c uses SCL and SDA pins which are pin22 and pin21 for esp32, respectively. if you are using esp32c3 supermini, the pins should be 8 and 9.  
+esp32 has many adc pins. i chose pin33 for esp32, and pinx for esp32c3 supermini. you can choose any other pin that has adc functionality.  
+once the wiring is done, please copy and paste the code provided. choose the board and port in arduino IDE.  
 after programming the code, the output should be similar to the videos i provided in the link below.
 
 
