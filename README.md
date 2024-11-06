@@ -2,12 +2,8 @@
 
 In this project, i will walk you through how to implement a spectrum analyzer using esp32 with its dual core.  
 I will do this project using arduino framework using arduino IDE. in order to use esp32, we will need to install esp32 arduino core in arduino IDE.  
-Please watch this 4-minute video for getting things ready for esp32 to program: https://www.youtube.com/watch?v=CD8VJl27n94
-
-
-
+  
 We will be using esp32 and/or esp32c3 super mini, 0.91 in oled screen, and a microphone to sample audio and display the frequency components.
-
 links for the parts:  
   
 https://shorturl.at/kFcOt - microphone  
@@ -15,14 +11,19 @@ https://shorturl.at/OVUjJ - 0.91 oled display
 https://shorturl.at/sInEY - esp32c3 super mini  
 
 
+STEPS:
 
-If you have all the parts above then this is the step we do wiring/connection. we will be using i2c communication protocol.  
-i2c uses SCL and SDA pins which are pin22 and pin21 for esp32, respectively. if you are using esp32c3 supermini, the pins should be 8 and 9.  
-esp32 has many adc pins. i chose pin33 for esp32, and pinx for esp32c3 supermini. you can choose any other pin that has adc functionality.  
-once the wiring is done, please copy and paste the code provided. choose the board and port in arduino IDE.  
-after programming the code, the output should be similar to the videos i provided in the link below.
+1) Please watch this 4-minute video for getting things ready for esp32 to program: https://www.youtube.com/watch?v=CD8VJl27n94
 
-
+2) If you have all the parts above then this is the step we do wiring/connection. we will be using i2c communication protocol.
+   
+3) i2c uses SCL and SDA pins which are pin22 and pin21 for esp32, respectively. if you are using esp32c3 supermini, the pins should be 8 and 9.
+   
+4) esp32 has many adc pins. i chose pin33 for esp32, and pinx for esp32c3 supermini. you can choose any other pin that has adc functionality.
+    
+5) once the wiring is done, please copy and paste the code provided. choose the board and port in arduino IDE.
+   
+6) after programming the code, the output should be similar to the videos i provided in the link below.
 
 
 
