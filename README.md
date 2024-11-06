@@ -1,6 +1,8 @@
 # Spectrum-analyzer
 
-In this project, i will walk you through how to implement a spectrum analyzer using esp32 with its dual core.  I will do this project using arduino framework using arduino IDE. in order to use esp32, we will need to install esp32 arduino core in arduino IDE.  Please watch this 4-minute video for getting things ready for esp32 to program: https://www.youtube.com/watch?v=CD8VJl27n94
+In this project, i will walk you through how to implement a spectrum analyzer using esp32 with its dual core.
+I will do this project using arduino framework using arduino IDE. in order to use esp32, we will need to install esp32 arduino core in arduino IDE.
+Please watch this 4-minute video for getting things ready for esp32 to program: https://www.youtube.com/watch?v=CD8VJl27n94
 
 
 
